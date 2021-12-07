@@ -1,0 +1,39 @@
+.t1 {
+color: #4fe288;
+font-size: xx-large;  
+}
+.t3 {
+color:rgba(0, 0, 25, alpha);
+font-size: xx-large;
+}
+.t2 {
+  color: lawngreen;
+  font-size: largeS;
+}
+label {
+  color: sandybrown;
+}
+body {
+  background-image: url("ball4.png") ;
+  background-attachment: fixed;
+  background-position: center;
+}
+.t {
+  color: rgba(0, 0, 252, alpha);
+}
+footer {
+  color: #7f0047;
+}
+.mang {
+  color: gold;
+  font-size:larger;
+}
+.fat {
+  color: #4fe288;
+  font-size: large;
+}
+hr {
+  border-color:sandybrown ;
+  border-style: dotted none none;
+  border-width: 6px;
+}
